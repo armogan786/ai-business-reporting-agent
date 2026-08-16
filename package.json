@@ -1,0 +1,9 @@
+{
+  "name": "agent-reporting-deck-builder",
+  "version": "1.0.0",
+  "description": "Turns the AI agent pipeline's JSON output into a polished .pptx deck",
+  "main": "build_deck.js",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}

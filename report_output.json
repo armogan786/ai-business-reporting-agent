@@ -1,0 +1,145 @@
+{
+  "title": "Executive Summary: Strategic Revenue Drivers & Regional Optimization",
+  "executive_summary": "Enterprise performance is strongly anchored by high-yield Automation Kits, which generate nearly half of overall revenue and present an immediate cross-selling opportunity across our broad Safety Equipment customer base. Regionally, the West is on track to displace the North as our primary revenue driver by Q3, while the South suffers from severe revenue contraction caused by deep discounting despite strong unit sales volume. Capitalizing on these dynamics requires enforcing strict pricing guardrails in the South, reallocating field resources to accelerate growth in the West, and launching targeted campaigns to convert high-volume accounts into high-ARPU automation clients.",
+  "closing_line": "Executing these key strategic shifts will stabilize regional margins, accelerate market expansion, and maximize enterprise revenue yield.",
+  "insights": [
+    {
+      "title": "Automation Kits serve as the core revenue driver with high yield per customer",
+      "detail": "Automation Kits generated 47.0% of total revenue ($1.79M) and achieved the highest YoY growth (59.0%), despite accounting for only 8.1% of units sold and 15.5% of customers. Average revenue per customer for Automation Kits sits at ~$1,979, compared to ~$302 for Safety Equipment.",
+      "importance": "high"
+    },
+    {
+      "title": "South region exhibits severe price erosion and negative growth despite high volume",
+      "detail": "The South region is the only declining market with -16.9% YoY growth and the lowest revenue ($565K), despite recording the second-highest unit sales (7,233 units). Its average revenue per unit (~$78) is roughly half that of the North (~$155), pointing to deep discounting or an over-reliance on low-margin products.",
+      "importance": "high"
+    },
+    {
+      "title": "West region on trajectory to displace North as the leading market",
+      "detail": "While North currently leads in total revenue ($1.21M vs $1.18M), West is outpacing it in growth rate (57.4% vs 38.9% YoY) and active customer count (1,723 vs 1,638). At current trajectories, West will become the highest-grossing region in Q3.",
+      "importance": "medium"
+    },
+    {
+      "title": "Safety Equipment customer base offers significant cross-selling potential",
+      "detail": "Safety Equipment accounts for 62.9% of all units sold and engages 41.7% of total customers (2,438), but yields only 19.4% of total revenue. This high-volume, low-margin segment provides a prime target audience for cross-selling higher-margin Industrial Tools or Automation Kits.",
+      "importance": "medium"
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Cross-Sell Automation Kits to Safety Equipment Customers",
+      "action": "Launch a targeted cross-selling initiative aimed at the 2,438 Safety Equipment customers, utilizing bundled offers and ROI-focused campaigns to transition them to high-yield Automation Kits.",
+      "expected_impact": "Unlocks exponential revenue growth by converting a broad base of low-yield customers into high-ARPU ($1,979) Automation Kit accounts."
+    },
+    {
+      "title": "Overhaul Pricing Guardrails and Product Mix in the South",
+      "action": "Implement strict floor-pricing policies to eliminate excessive discounting, while reorienting the regional sales team from low-margin volume products to value-added bundles.",
+      "expected_impact": "Reverses the -16.9% YoY revenue decline in the South and elevates average unit realization closer to the North region's ~$155 benchmark."
+    },
+    {
+      "title": "Reallocate Growth Capital to Accelerate West Region Expansion",
+      "action": "Shift sales coverage and field marketing budgets into the West region to capitalize on strong market momentum (+57.4% YoY growth) and expanding customer acquisition.",
+      "expected_impact": "Solidifies the West region's trajectory to displace the North as the primary revenue driver by Q3, maximizing enterprise growth."
+    }
+  ],
+  "stats": {
+    "row_count": 24,
+    "numeric_columns": [
+      "revenue",
+      "units_sold",
+      "customer_count",
+      "yoy_growth_pct"
+    ],
+    "categorical_columns": [
+      "region",
+      "product_line",
+      "quarter"
+    ],
+    "primary_metric": "revenue",
+    "overall_totals": {
+      "revenue": 3807000.0,
+      "units_sold": 29231.0,
+      "customer_count": 5840.0,
+      "yoy_growth_pct": 99.9
+    },
+    "breakdowns": {
+      "region": [
+        {
+          "region": "North",
+          "revenue": 1210500,
+          "units_sold": 7807,
+          "customer_count": 1638,
+          "yoy_growth_pct": 38.9,
+          "row_count": 6
+        },
+        {
+          "region": "West",
+          "revenue": 1184500,
+          "units_sold": 8408,
+          "customer_count": 1723,
+          "yoy_growth_pct": 57.4,
+          "row_count": 6
+        },
+        {
+          "region": "East",
+          "revenue": 847000,
+          "units_sold": 5783,
+          "customer_count": 1252,
+          "yoy_growth_pct": 20.5,
+          "row_count": 6
+        },
+        {
+          "region": "South",
+          "revenue": 565000,
+          "units_sold": 7233,
+          "customer_count": 1227,
+          "yoy_growth_pct": -16.9,
+          "row_count": 6
+        }
+      ],
+      "product_line": [
+        {
+          "product_line": "Automation Kits",
+          "revenue": 1789000,
+          "units_sold": 2364,
+          "customer_count": 904,
+          "yoy_growth_pct": 59.0,
+          "row_count": 8
+        },
+        {
+          "product_line": "Industrial Tools",
+          "revenue": 1281000,
+          "units_sold": 8477,
+          "customer_count": 2498,
+          "yoy_growth_pct": 21.3,
+          "row_count": 8
+        },
+        {
+          "product_line": "Safety Equipment",
+          "revenue": 737000,
+          "units_sold": 18390,
+          "customer_count": 2438,
+          "yoy_growth_pct": 19.6,
+          "row_count": 8
+        }
+      ],
+      "quarter": [
+        {
+          "quarter": "Q2",
+          "revenue": 1965000,
+          "units_sold": 14903,
+          "customer_count": 2971,
+          "yoy_growth_pct": 50.8,
+          "row_count": 12
+        },
+        {
+          "quarter": "Q1",
+          "revenue": 1842000,
+          "units_sold": 14328,
+          "customer_count": 2869,
+          "yoy_growth_pct": 49.1,
+          "row_count": 12
+        }
+      ]
+    }
+  }
+}

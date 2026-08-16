@@ -1,0 +1,25 @@
+region,product_line,quarter,revenue,units_sold,customer_count,yoy_growth_pct
+North,Industrial Tools,Q1,182000,1210,340,4.2
+North,Industrial Tools,Q2,191000,1265,352,5.1
+South,Industrial Tools,Q1,96000,640,210,-3.5
+South,Industrial Tools,Q2,89000,590,198,-6.8
+East,Industrial Tools,Q1,145000,960,280,2.1
+East,Industrial Tools,Q2,151000,1002,289,3.0
+West,Industrial Tools,Q1,203000,1340,401,7.8
+West,Industrial Tools,Q2,224000,1470,428,9.4
+North,Safety Equipment,Q1,88000,2200,310,1.1
+North,Safety Equipment,Q2,90500,2260,318,1.8
+South,Safety Equipment,Q1,112000,2800,355,6.4
+South,Safety Equipment,Q2,121000,3010,372,8.0
+East,Safety Equipment,Q1,67000,1675,240,-1.2
+East,Safety Equipment,Q2,64000,1590,231,-3.9
+West,Safety Equipment,Q1,95000,2375,300,3.3
+West,Safety Equipment,Q2,99500,2480,312,4.1
+North,Automation Kits,Q1,310000,410,150,12.5
+North,Automation Kits,Q2,349000,462,168,14.2
+South,Automation Kits,Q1,78000,102,48,-8.9
+South,Automation Kits,Q2,69000,91,44,-12.1
+East,Automation Kits,Q1,201000,266,102,9.7
+East,Automation Kits,Q2,219000,290,110,10.8
+West,Automation Kits,Q1,265000,350,133,15.6
+West,Automation Kits,Q2,298000,393,149,17.2
